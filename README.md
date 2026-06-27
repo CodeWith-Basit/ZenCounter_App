@@ -1,3 +1,6 @@
+<img width="292" height="637" alt="m" src="https://github.com/user-attachments/assets/3ea9ab38-e127-45d3-9571-0eee55195930" />
+
+
 # 🌌 NeonGlow Counter – Premium Flutter UI Showcase
 
 A beautifully crafted, modern take on the classic counter application. Built using the Flutter framework, this project serves as a showcase for high-end UI/UX principles, featuring a stunning dark mode aesthetic, vibrant radial gradient glows, and custom-styled interactive control elements with soft-neon shadow effects.
@@ -40,8 +43,6 @@ To run or explore this project locally, you need to have the Flutter SDK install
 ## 📽️ Project Demonstration & Walkthrough
 
 Want to see the premium UI transitions, glowing layout behaviors, and fluid state modifications in action? 
-
-📺 **[Watch the full application walkthrough video here!](YOUR_VIDEO_LINK_HERE)**
 
 ---
 
